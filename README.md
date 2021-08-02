@@ -1,7 +1,7 @@
 Omobio Trainee Fullstack Developer Practical Test
 ============================
 
-I Couldn't all complete But I trired do my best 
+I Couldn't all complete But I trired to do my best 
 
 ## Get started
 
