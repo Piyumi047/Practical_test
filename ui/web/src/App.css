@@ -1,0 +1,19 @@
+
+.Container{
+  display: block;
+  text-align: center;
+  margin: 20px;
+}
+
+.Container .Login{
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+.Login input{
+  width: 400px;
+  margin: 15px;
+}
